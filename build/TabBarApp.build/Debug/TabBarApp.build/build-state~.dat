@@ -1,0 +1,164 @@
+TTabBarApp
+v7
+r1
+cCheck dependencies
+
+N/Users/Alumno/Downloads/TabBarApp/MainWindow.xib
+c000000004E024725000000000000A73A
+t1308772133
+s42810
+
+N/Users/Alumno/Downloads/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/TwitterController.nib
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/UVM Dance.jpg
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/UVM Electronica.jpg
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/UVM Pop.jpg
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/UVM Rock.jpg
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/UVM Sesion Chile.jpg
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/logo.jpg
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/pause.png
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/play.png
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Resources/prueba1ViewController.nib
+t2
+s0
+
+N/Users/Alumno/Downloads/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/Alumno/Downloads/TabBarApp/pause.png
+c000000004E026F3C000000000000D133
+t1308782396
+s53555
+
+N/Users/Alumno/Downloads/TabBarApp/play.png
+c000000004E024805000000000000475A
+t1308772357
+s18266
+
+N/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib
+c000000004E026FA40000000000006EB1
+t1308782500
+s28337
+
+NTabBarApp-Info.plist
+c000000004DFD8E4D000000000000038D
+t1308462669
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330556343#330556343#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'330556343#18446744073709551615#0#0(1@0"0(0#1#0"8614630304#0"0#
+
+CCompileXIB /Users/Alumno/Downloads/TabBarApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/Alumno/Downloads/TabBarApp/TwitterController.xib
+r0
+
+CCompileXIB /Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib
+r0
+
+CCpResource "build/Debug/TabBarApp.app/Contents/Resources/UVM Dance.jpg" "UVM Dance.jpg"
+r0
+
+CCpResource "build/Debug/TabBarApp.app/Contents/Resources/UVM Electronica.jpg" "UVM Electronica.jpg"
+r0
+
+CCpResource "build/Debug/TabBarApp.app/Contents/Resources/UVM Pop.jpg" "UVM Pop.jpg"
+r0
+
+CCpResource "build/Debug/TabBarApp.app/Contents/Resources/UVM Rock.jpg" "UVM Rock.jpg"
+r0
+
+CCpResource "build/Debug/TabBarApp.app/Contents/Resources/UVM Sesion Chile.jpg" "UVM Sesion Chile.jpg"
+r0
+
+CCpResource build/Debug/TabBarApp.app/Contents/Resources/logo.jpg logo.jpg
+r0
+
+CCpResource build/Debug/TabBarApp.app/Contents/Resources/pause.png pause.png
+r0
+
+CCpResource build/Debug/TabBarApp.app/Contents/Resources/play.png play.png
+r0
+
+CProcessInfoPlistFile /Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app/Contents/Info.plist TabBarApp-Info.plist
+r0
+
+CTouch /Users/Alumno/Downloads/TabBarApp/build/Debug/TabBarApp.app
+r0
+

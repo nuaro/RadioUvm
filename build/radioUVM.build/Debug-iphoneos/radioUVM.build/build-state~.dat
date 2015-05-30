@@ -1,0 +1,505 @@
+TradioUVM
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004D7401890000000000000110
+t1299448201
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D5A25CF00000000003FF380
+t1297753551
+s4191104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004D5A259E0000000000000A23
+t1297753502
+s2595
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54D1B500000000002CAD60
+t1297404341
+s2927968
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54D12700000000000004CF
+t1297404199
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54D18C00000000003532A0
+t1297404300
+s3486368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54D1F500000000003E22F0
+t1297404405
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D5DEAA80000000000000294
+t1298000552
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5DEAE900000000003A84E0
+t1298000617
+s3835104
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004D54D4960000000000000364
+t1297405078
+s868
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D608000000000026CB10
+t1297405448
+s2542352
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5A292A0000000000CA2AE0
+t1297754410
+s13249248
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/pthread.h
+c000000004D4F6E910000000000003BF6
+t1297051281
+s15350
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.h
+c000000004DFE56F80000000000001948
+t1308514040
+s6472
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m
+c000000004E026D3B000000000000C34A
+t1308781883
+s49994
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.h
+c000000004E03B0B700000000000001CD
+t1308864695
+s461
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m
+c000000004E03B07B0000000000000A6B
+t1308864635
+s2667
+i"TabBarAppAppDelegate.h"
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib
+c000000004E0B96E4000000000000A758
+t1309382372
+s42840
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.h
+c000000004E023D310000000000000210
+t1308769585
+s528
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m
+c000000004E0A194A00000000000008F2
+t1309284682
+s2290
+i"TwitterController.h"
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app.dSYM
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/Info.plist
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/MainWindow.nib
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/PkgInfo
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/ResourceRules.plist
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/TwitterController.nib
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/UVM Dance.jpg
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/UVM Electronica.jpg
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/UVM Pop.jpg
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/UVM Rock.jpg
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/UVM Sesion Chile.jpg
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/icon.png
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/logo.jpg
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/pause.png
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/play.png
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/prueba1ViewController.nib
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/radioUVM
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/radiobar.png
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/red boton.png
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/AudioStreamer.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/TabBarAppAppDelegate.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/TwitterController.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/prueba1AppDelegate.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/prueba1ViewController.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/radioUVM
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/radioUVM.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/AudioStreamer.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/TabBarAppAppDelegate.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/TwitterController.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/prueba1AppDelegate.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/prueba1ViewController.o
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/radioUVM
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/radioUVM.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/icon.png
+c000000004E0A144700000000000016FB
+t1309283399
+s5883
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m
+c000000004DFD8E4D000000000000015B
+t1308462669
+s347
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/pause.png
+c000000004E03E84F00000000000096F4
+t1308878927
+s38644
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/play.png
+c000000004E024805000000000000475A
+t1308772357
+s18266
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.h
+c000000004DFE0C8100000000000001CF
+t1308494977
+s463
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m
+c000000004DF7D2060000000000000A9A
+t1308086790
+s2714
+i"prueba1AppDelegate.h"
+i"prueba1ViewController.h"
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.h
+c000000004E0A2323000000000000032A
+t1309287203
+s810
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m
+c000000004E0B5F340000000000001BDF
+t1309368116
+s7135
+i"prueba1ViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib
+c000000004E0A1BFE00000000000075B1
+t1309285374
+s30129
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/radioUVM_Prefix.pch
+c000000004DFD8E4D00000000000000BB
+t1308462669
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/radiobar.png
+c000000004E0A63810000000000001104
+t1309303681
+s4356
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/red boton.png
+c000000004E03ED1F0000000000001087
+t1308880159
+s4231
+
+N/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/radioUVM_Prefix-enihicyczupcuedvxanrllylpzym/radioUVM_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/radioUVM_Prefix-gzcvnaiaciyrbrgibuuwgfyqexok/radioUVM_Prefix.pch.gch
+t2
+s0
+
+NradioUVM-Info.plist
+c000000004E0A14980000000000000395
+t1309283480
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331140331#331140332#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain331140332#18446744073709551615#0#0(1@0"0(0#1#0"8609442592#0"0#
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/AudioStreamer.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/TabBarAppAppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/TwitterController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/main.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/prueba1AppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/prueba1ViewController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/AudioStreamer.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/TabBarAppAppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/TwitterController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/main.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/prueba1AppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/prueba1ViewController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.xib"
+r0
+
+CCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib"
+r0
+
+CCopyPNGFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/pause.png" pause.png
+r0
+
+CCopyPNGFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/play.png" play.png
+r0
+
+CCopyPNGFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/radiobar.png" radiobar.png
+r0
+
+CCopyPNGFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/red boton.png" "red boton.png"
+r0
+
+CCpResource "build/Debug-iphoneos/radioUVM.app/UVM Dance.jpg" "UVM Dance.jpg"
+r0
+
+CCpResource "build/Debug-iphoneos/radioUVM.app/UVM Electronica.jpg" "UVM Electronica.jpg"
+r0
+
+CCpResource "build/Debug-iphoneos/radioUVM.app/UVM Pop.jpg" "UVM Pop.jpg"
+r0
+
+CCpResource "build/Debug-iphoneos/radioUVM.app/UVM Rock.jpg" "UVM Rock.jpg"
+r0
+
+CCpResource "build/Debug-iphoneos/radioUVM.app/UVM Sesion Chile.jpg" "UVM Sesion Chile.jpg"
+r0
+
+CCpResource build/Debug-iphoneos/radioUVM.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Debug-iphoneos/radioUVM.app/logo.jpg logo.jpg
+r0
+
+CCreateUniversalBinary "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/radioUVM" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app.dSYM" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/radioUVM"
+r0
+
+CLd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv6/radioUVM" normal armv6
+r0
+
+CLd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/radioUVM.build/Debug-iphoneos/radioUVM.build/Objects-normal/armv7/radioUVM" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app/Info.plist" radioUVM-Info.plist
+r0
+
+CProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/radioUVM_Prefix-enihicyczupcuedvxanrllylpzym/radioUVM_Prefix.pch.gch radioUVM_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/radioUVM_Prefix-gzcvnaiaciyrbrgibuuwgfyqexok/radioUVM_Prefix.pch.gch radioUVM_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphoneos/radioUVM.app"
+r0
+

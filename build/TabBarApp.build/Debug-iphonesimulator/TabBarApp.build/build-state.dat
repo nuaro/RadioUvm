@@ -1,0 +1,2262 @@
+TTabBarApp
+v7
+r0
+t331075180.871618
+cCheck dependencies
+cProcessInfoPlistFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist" TabBarApp-Info.plist
+cCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/TabBarApp.app/logo.jpg logo.jpg
+cCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.xib"
+cCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib"
+cCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg" "UVM Dance.jpg"
+cCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg" "UVM Electronica.jpg"
+cCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg" "UVM Pop.jpg"
+cCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg" "UVM Rock.jpg"
+cCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg" "UVM Sesion Chile.jpg"
+cCpResource build/Debug-iphonesimulator/TabBarApp.app/play.png play.png
+cCpResource build/Debug-iphonesimulator/TabBarApp.app/pause.png pause.png
+cCpResource "build/Debug-iphonesimulator/TabBarApp.app/red boton.png" "red boton.png"
+cCpResource build/Debug-iphonesimulator/TabBarApp.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/TabBarApp.app/radiobar.png radiobar.png
+cProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch.gch TabBarApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp" normal i386
+cGenerateDSYMFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp"
+cTouch "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D5A25CF00000000003FF380
+t1297753551
+s4191104
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004C5A4D1600000000001E06E0
+t1280986390
+s1967840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004C5A4D020000000000000A23
+t1280986370
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A4D8A00000000001C17C0
+t1280986506
+s1841088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A4D6600000000000004CF
+t1280986470
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004C68B9E40000000000000268
+t1281931748
+s616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004C68BA00000000000015B0F0
+t1281931776
+s1421552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004C5A50530000000000000364
+t1280987219
+s868
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C5A50EF0000000000154E50
+t1280987375
+s1396304
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/pthread.h
+c000000004C57909200000000000038F0
+t1280807058
+s14576
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D54CF5D0000000000205F50
+t1297403741
+s2121552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004D54CF4A0000000000000A23
+t1297403722
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D5EBF360000000000000294
+t1298054966
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5EBF5300000000001C31B0
+t1298054995
+s1847728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004D54D2DF0000000000000364
+t1297404639
+s868
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/pthread.h
+c000000004D4F6E9A0000000000003BF6
+t1297051290
+s15350
+
+N/Users/Alumno/Downloads/TabBarApp/AudioStreamer.h
+c000000004DFE56F80000000000001948
+t1308514040
+s6472
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/Alumno/Downloads/TabBarApp/AudioStreamer.m
+c000000004E026D3B000000000000C34A
+t1308781883
+s49994
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.h
+c000000004E03B0B700000000000001CD
+t1308864695
+s461
+i<UIKit/UIKit.h>
+
+N/Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m
+c000000004E03B07B0000000000000A6B
+t1308864635
+s2667
+i"TabBarAppAppDelegate.h"
+
+N/Users/Alumno/Downloads/TabBarApp/MainWindow.xib
+c000000004E024725000000000000A73A
+t1308772133
+s42810
+
+N/Users/Alumno/Downloads/TabBarApp/TabBarApp_Prefix.pch
+c000000004DFD8E4D00000000000000BB
+t1308462669
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Alumno/Downloads/TabBarApp/TwitterController.h
+c000000004E023D310000000000000210
+t1308769585
+s528
+i<UIKit/UIKit.h>
+
+N/Users/Alumno/Downloads/TabBarApp/TwitterController.m
+c000000004E0246AE0000000000000911
+t1308772014
+s2321
+i"TwitterController.h"
+
+N/Users/Alumno/Downloads/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/Alumno/Downloads/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+t1308865031
+s646
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+t1308864914
+s102
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+t1308463172
+s599
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib
+t1308772139
+s5079
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo
+t1308463172
+s8
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+t1308864914
+s83444
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TwitterController.nib
+t1308473955
+s3055
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg
+t1308513956
+s28739
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg
+t1308513956
+s26542
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg
+t1308513956
+s29201
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg
+t1308513956
+s17732
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg
+t1308513956
+s33283
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/logo.jpg
+t1308467312
+s66820
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/pause.png
+t1308782504
+s53555
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/play.png
+t1308781450
+s18266
+
+N/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib
+t1308865031
+s4939
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+t1308863565
+s127312
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList
+c000000004E03AC4D000000000000031B
+t1308863565
+s795
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+t1308864695
+s51004
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+t1308863565
+s45132
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+t1308863565
+s6292
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+t1308864705
+s48676
+
+N/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+t1308864914
+s60660
+
+N/Users/Alumno/Downloads/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/Alumno/Downloads/TabBarApp/main.m
+c000000004DFD8E4D000000000000015B
+t1308462669
+s347
+i<UIKit/UIKit.h>
+
+N/Users/Alumno/Downloads/TabBarApp/pause.png
+c000000004E026F3C000000000000D133
+t1308782396
+s53555
+
+N/Users/Alumno/Downloads/TabBarApp/play.png
+c000000004E024805000000000000475A
+t1308772357
+s18266
+
+N/Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.h
+c000000004DFE0C8100000000000001CF
+t1308494977
+s463
+i<UIKit/UIKit.h>
+
+N/Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.m
+c000000004DF7D2060000000000000A9A
+t1308086790
+s2714
+i"prueba1AppDelegate.h"
+i"prueba1ViewController.h"
+
+N/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.h
+c000000004E03B0C0000000000000024E
+t1308864704
+s590
+i<UIKit/UIKit.h>
+
+N/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.m
+c000000004E03B19100000000000011CB
+t1308864913
+s4555
+i"prueba1ViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib
+c000000004E03B1FD0000000000007A45
+t1308865021
+s31301
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.h
+c000000004DFE56F80000000000001948
+t1308514040
+s6472
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.m
+c000000004E026D3B000000000000C34A
+t1308781883
+s49994
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.h
+c000000004DFD8F1200000000000001CC
+t1308462866
+s460
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m
+c000000004DFDA1510000000000000A58
+t1308467537
+s2648
+i"TabBarAppAppDelegate.h"
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/MainWindow.xib
+c000000004E024725000000000000A73A
+t1308772133
+s42810
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/TabBarApp_Prefix.pch
+c000000004DFD8E4D00000000000000BB
+t1308462669
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.h
+c000000004E023D310000000000000210
+t1308769585
+s528
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.m
+c000000004E0246AE0000000000000911
+t1308772014
+s2321
+i"TwitterController.h"
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+t1308782504
+s646
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+t1308781961
+s102
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+t1308463172
+s599
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib
+t1308772139
+s5079
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo
+t1308463172
+s8
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+t1308781961
+s79088
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TwitterController.nib
+t1308473955
+s3055
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg
+t1308513956
+s28739
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg
+t1308513956
+s26542
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg
+t1308513956
+s29201
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg
+t1308513956
+s17732
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg
+t1308513956
+s33283
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/logo.jpg
+t1308467312
+s66820
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/pause.png
+t1308782504
+s53555
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/play.png
+t1308781450
+s18266
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib
+t1308782504
+s4103
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+t1308781961
+s130800
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList
+c000000004DFEB40F000000000000036F
+t1308537871
+s879
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+t1308537877
+s53592
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+t1308772139
+s48656
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+t1308537877
+s6328
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+t1308771046
+s52220
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+t1308771749
+s58784
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/main.m
+c000000004DFD8E4D000000000000015B
+t1308462669
+s347
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/pause.png
+c000000004E026F3C000000000000D133
+t1308782396
+s53555
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/play.png
+c000000004E024805000000000000475A
+t1308772357
+s18266
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.h
+c000000004DFE0C8100000000000001CF
+t1308494977
+s463
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.m
+c000000004DF7D2060000000000000A9A
+t1308086790
+s2714
+i"prueba1AppDelegate.h"
+i"prueba1ViewController.h"
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.h
+c000000004E02427A0000000000000220
+t1308770938
+s544
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.m
+c000000004E0243BB000000000000117C
+t1308771259
+s4476
+i"prueba1ViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.xib
+c000000004E026FA40000000000006EB1
+t1308782500
+s28337
+
+N/Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.h
+c000000004DFE56F80000000000001948
+t1308514040
+s6472
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.m
+c000000004DFA533C000000000000C34A
+t1308250940
+s49994
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.h
+c000000004DFD8F1200000000000001CC
+t1308462866
+s460
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m
+c000000004DFDA1510000000000000A58
+t1308467537
+s2648
+i"TabBarAppAppDelegate.h"
+
+N/Users/felipeescobar/Desktop/TabBarApp/Creditos.jpg
+c000000004DFDB5BC0000000000000B99
+t1308472764
+s2969
+
+N/Users/felipeescobar/Desktop/TabBarApp/MainWindow.xib
+c000000004DFE5A220000000000009E3A
+t1308514850
+s40506
+
+N/Users/felipeescobar/Desktop/TabBarApp/Radio.jpg
+c000000004DFDB5CF0000000000000BBD
+t1308472783
+s3005
+
+N/Users/felipeescobar/Desktop/TabBarApp/TabBarApp_Prefix.pch
+c000000004DFD8E4D00000000000000BB
+t1308462669
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/Twitter.jpg
+c000000004DFDB5E00000000000000C97
+t1308472800
+s3223
+
+N/Users/felipeescobar/Desktop/TabBarApp/TwitterController.h
+c000000004DFDB14600000000000001FE
+t1308471622
+s510
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m
+c000000004DFDBA1800000000000008AD
+t1308473880
+s2221
+i"TwitterController.h"
+
+N/Users/felipeescobar/Desktop/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/felipeescobar/Desktop/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/felipeescobar/Desktop/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/felipeescobar/Desktop/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/felipeescobar/Desktop/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/felipeescobar/Desktop/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+t1308517087
+s578
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+t1308517087
+s102
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Creditos.jpg
+t1308472987
+s2969
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+t1308463172
+s599
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib
+t1308517086
+s4823
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo
+t1308463172
+s8
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Radio.jpg
+t1308472987
+s3005
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+t1308517087
+s78856
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Twitter.jpg
+t1308472987
+s3223
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TwitterController.nib
+t1308473955
+s3055
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg
+t1308513956
+s28739
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg
+t1308513956
+s26542
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg
+t1308513956
+s29201
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg
+t1308513956
+s17732
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg
+t1308513956
+s33283
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/logo.jpg
+t1308467312
+s66820
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1-Info.plist
+t2
+s0
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib
+t1308514347
+s3744
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+t1308514042
+s130768
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList
+c000000004DFE56A20000000000000339
+t1308513954
+s825
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+t1308468622
+s53572
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+t1308473881
+s47980
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+t1308463174
+s6312
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+t1308513956
+s52200
+
+N/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+t1308514042
+s58240
+
+N/Users/felipeescobar/Desktop/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/felipeescobar/Desktop/TabBarApp/main.m
+c000000004DFD8E4D000000000000015B
+t1308462669
+s347
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/prueba1-Info.plist
+c000000004DF7D206000000000000038D
+t1308086790
+s909
+
+N/Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.h
+c000000004DFE0C8100000000000001CF
+t1308494977
+s463
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.m
+c000000004DF7D2060000000000000A9A
+t1308086790
+s2714
+i"prueba1AppDelegate.h"
+i"prueba1ViewController.h"
+
+N/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.h
+c000000004DFE171E0000000000000201
+t1308497694
+s513
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.m
+c000000004DFE27CA0000000000001148
+t1308501962
+s4424
+i"prueba1ViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.xib
+c000000004DFE582800000000000060E2
+t1308514344
+s24802
+
+N/Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.h
+c000000004DFE56F80000000000001948
+t1308514040
+s6472
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.m
+c000000004E026D3B000000000000C34A
+t1308781883
+s49994
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.h
+c000000004E03B0B700000000000001CD
+t1308864695
+s461
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m
+c000000004E03B07B0000000000000A6B
+t1308864635
+s2667
+i"TabBarAppAppDelegate.h"
+
+N/Users/felipeescobar/Downloads/TabBarApp/MainWindow.xib
+c000000004E024725000000000000A73A
+t1308772133
+s42810
+
+N/Users/felipeescobar/Downloads/TabBarApp/TabBarApp_Prefix.pch
+c000000004DFD8E4D00000000000000BB
+t1308462669
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/TwitterController.h
+c000000004E023D310000000000000210
+t1308769585
+s528
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/TwitterController.m
+c000000004E03E33D00000000000008F0
+t1308877629
+s2288
+i"TwitterController.h"
+
+N/Users/felipeescobar/Downloads/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/felipeescobar/Downloads/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/felipeescobar/Downloads/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/felipeescobar/Downloads/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/felipeescobar/Downloads/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/felipeescobar/Downloads/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+t1308880308
+s680
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+t1308879934
+s102
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+t1308463172
+s599
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib
+t1308772139
+s5079
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo
+t1308463172
+s8
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+t1308879934
+s79180
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TwitterController.nib
+t1308473955
+s3055
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg
+t1308513956
+s28739
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg
+t1308513956
+s26542
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg
+t1308513956
+s29201
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg
+t1308513956
+s17732
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg
+t1308513956
+s33283
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/logo.jpg
+t1308467312
+s66820
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/pause.png
+t1308879028
+s38644
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/play.png
+t1308781450
+s18266
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib
+t1308880308
+s2692
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/red boton.png
+t1308880307
+s4231
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+t1308877349
+s127328
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList
+c000000004E03E2210000000000000345
+t1308877345
+s837
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+t1308877348
+s51028
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+t1308877849
+s45060
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+t1308877348
+s6316
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+t1308879934
+s48696
+
+N/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+t1308879934
+s59012
+
+N/Users/felipeescobar/Downloads/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/felipeescobar/Downloads/TabBarApp/main.m
+c000000004DFD8E4D000000000000015B
+t1308462669
+s347
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/pause.png
+c000000004E03E84F00000000000096F4
+t1308878927
+s38644
+
+N/Users/felipeescobar/Downloads/TabBarApp/play.png
+c000000004E024805000000000000475A
+t1308772357
+s18266
+
+N/Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.h
+c000000004DFE0C8100000000000001CF
+t1308494977
+s463
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.m
+c000000004DF7D2060000000000000A9A
+t1308086790
+s2714
+i"prueba1AppDelegate.h"
+i"prueba1ViewController.h"
+
+N/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.h
+c000000004E03EC3700000000000002C9
+t1308879927
+s713
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.m
+c000000004E03EB3F0000000000001212
+t1308879679
+s4626
+i"prueba1ViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.xib
+c000000004E03EDB00000000000007B21
+t1308880304
+s31521
+
+N/Users/felipeescobar/Downloads/TabBarApp/red boton.png
+c000000004E03ED1F0000000000001087
+t1308880159
+s4231
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.h
+c000000004DFE56F80000000000001948
+t1308514040
+s6472
+i<UIKit/UIKit.h>
+i<Cocoa/Cocoa.h>
+i<pthread.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m
+c000000004E026D3B000000000000C34A
+t1308781883
+s49994
+i"AudioStreamer.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.h
+c000000004E03B0B700000000000001CD
+t1308864695
+s461
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m
+c000000004E03B07B0000000000000A6B
+t1308864635
+s2667
+i"TabBarAppAppDelegate.h"
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib
+c000000004E0B96E4000000000000A758
+t1309382372
+s42840
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TabBarApp_Prefix.pch
+c000000004DFD8E4D00000000000000BB
+t1308462669
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.h
+c000000004E023D310000000000000210
+t1308769585
+s528
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m
+c000000004E0A194A00000000000008F2
+t1309284682
+s2290
+i"TwitterController.h"
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.xib
+c000000004DFDBA5B0000000000006725
+t1308473947
+s26405
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Dance.jpg
+c000000004DFE19C20000000000007043
+t1308498370
+s28739
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Electronica.jpg
+c000000004DFE196500000000000067AE
+t1308498277
+s26542
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Pop.jpg
+c000000004DFE19860000000000007211
+t1308498310
+s29201
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Rock.jpg
+c000000004DFE19530000000000004544
+t1308498259
+s17732
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/UVM Sesion Chile.jpg
+c000000004DFE19D10000000000008203
+t1308498385
+s33283
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+t1309382380
+s748
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+t1309368121
+s102
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+t1309283480
+s633
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib
+t1309382380
+s2809
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo
+t1309283480
+s8
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+t1309368121
+s84444
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TwitterController.nib
+t1308473955
+s3055
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg
+t1308513956
+s28739
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg
+t1308513956
+s26542
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg
+t1308513956
+s29201
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg
+t1308513956
+s17732
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg
+t1308513956
+s33283
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/icon.png
+t1309283480
+s5883
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/logo.jpg
+t1308467312
+s66820
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/pause.png
+t1308879028
+s38644
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/play.png
+t1308781450
+s18266
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib
+t1309285384
+s2560
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/radiobar.png
+t1309304237
+s4356
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/red boton.png
+t1308880307
+s4231
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+t1309279548
+s127392
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList
+c000000004E0A053A00000000000003B7
+t1309279546
+s951
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+t1309279547
+s51064
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+t1309284770
+s45096
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+t1309279547
+s6352
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+t1309287257
+s49156
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+t1309368120
+s64512
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/icon.png
+c000000004E0A144700000000000016FB
+t1309283399
+s5883
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/logo.jpg
+c000000004DFD493F0000000000010504
+t1308444991
+s66820
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m
+c000000004DFD8E4D000000000000015B
+t1308462669
+s347
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/pause.png
+c000000004E03E84F00000000000096F4
+t1308878927
+s38644
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/play.png
+c000000004E024805000000000000475A
+t1308772357
+s18266
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.h
+c000000004DFE0C8100000000000001CF
+t1308494977
+s463
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m
+c000000004DF7D2060000000000000A9A
+t1308086790
+s2714
+i"prueba1AppDelegate.h"
+i"prueba1ViewController.h"
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.h
+c000000004E0A2323000000000000032A
+t1309287203
+s810
+i<UIKit/UIKit.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m
+c000000004E0B5F340000000000001BDF
+t1309368116
+s7135
+i"prueba1ViewController.h"
+i"AudioStreamer.h"
+i<QuartzCore/CoreAnimation.h>
+i<MediaPlayer/MediaPlayer.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib
+c000000004E0A1BFE00000000000075B1
+t1309285374
+s30129
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/radiobar.png
+c000000004E0A63810000000000001104
+t1309303681
+s4356
+
+N/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/red boton.png
+c000000004E03ED1F0000000000001087
+t1308880159
+s4231
+
+N/var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch.gch
+t1308863565
+s15211536
+
+N/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch.gch
+t1308463174
+s15814064
+
+N/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch.gch
+t1308877348
+s15215632
+
+N/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch.gch
+t1309279547
+s15215632
+
+N/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch.gch
+t1308537876
+s15814064
+
+NTabBarApp-Info.plist
+c000000004E0A14980000000000000395
+t1309283480
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331075180#331075180#0(0"0(0#1#0"8603330592#0"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330474760.095473
+e330474761.140996
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.m330474760#330474761#0(0"0(0#0#63"/Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.m8605917472#2093"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/AudioStreamer.m" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330972347.999004
+e330972348.637862
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m330972347#330972348#0(0"0(0#0#75"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m8602867424#2225"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/AudioStreamer.m" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o /Users/Alumno/Downloads/TabBarApp/AudioStreamer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330556365.608287
+e330556365.889109
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+x/Users/Alumno/Downloads/TabBarApp/AudioStreamer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Alumno/Downloads/TabBarApp/AudioStreamer.m330556365#330556365#0(0"0(0#0#49"/Users/Alumno/Downloads/TabBarApp/AudioStreamer.m8617046176#1917"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch -c /Users/Alumno/Downloads/TabBarApp/AudioStreamer.m -o /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o /Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330206842.205584
+e330206842.592476
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+x/Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.m330206842#330206842#0(0"0(0#0#54"/Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.m8620795072#1972"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch -c /Users/felipeescobar/Desktop/TabBarApp/AudioStreamer.m -o /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o /Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330570149.010644
+e330570149.475387
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o
+x/Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.m330570149#330570149#0(0"0(0#0#56"/Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.m8603803520#1994"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch -c /Users/felipeescobar/Downloads/TabBarApp/AudioStreamer.m -o /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/AudioStreamer.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330230677.125146
+e330230677.429070
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires method '-TabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@86"Compile /Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m330230677#330230677#0(473"/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires method '-TabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@140"Property 'TabBarController' requires method '-TabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation330230677#0#233#0(6@78"/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m330160337#87#0#87#0#0"0(22@147"Property 'TabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation330230677#233#240#0(6@78"/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m330160337#87#0#87#0#0"0(0#0#78"/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m8599352640#2115"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/Classes/TabBarAppAppDelegate.m" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330972347.761454
+e330972347.997334
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m330972347#330972347#0(0"0(0#0#90"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m8606480576#2247"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/Classes/TabBarAppAppDelegate.m" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o /Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330557495.799994
+e330557495.892988
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+x/Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m330557495#330557495#0(0"0(0#0#64"/Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m8618882432#1939"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch -c /Users/Alumno/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m -o /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o /Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330161421.863164
+e330161422.233972
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+x/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires method '-TabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@77"Compile /Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m330161421#330161422#0(455"/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires method '-TabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m:87: warning: property 'TabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@140"Property 'TabBarController' requires method '-TabBarController' to be defined - use @synthesize, @dynamic or provide a method implementation330161422#0#224#0(6@69"/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m330160337#87#0#87#0#0"0(22@147"Property 'TabBarController' requires the method 'setTabBarController:' to be defined - use @synthesize, @dynamic or provide a method implementation330161422#224#231#0(6@69"/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m330160337#87#0#87#0#0"0(0#0#69"/Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m8617291104#1994"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch -c /Users/felipeescobar/Desktop/TabBarApp/Classes/TabBarAppAppDelegate.m -o /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o /Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330570148.907757
+e330570149.010552
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o
+x/Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m330570148#330570149#0(0"0(0#0#71"/Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m8604170592#2016"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch -c /Users/felipeescobar/Downloads/TabBarApp/Classes/TabBarAppAppDelegate.m -o /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarAppAppDelegate.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330464939.498636
+e330464939.567384
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.m330464939#330464939#0(0"0(0#0#67"/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.m8617397952#2101"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.m" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330977570.477323
+e330977570.670408
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m330977570#330977570#0(0"0(0#0#79"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m8621820160#2233"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.m" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o /Users/Alumno/Downloads/TabBarApp/TwitterController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330556365.585289
+e330556365.652714
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+x/Users/Alumno/Downloads/TabBarApp/TwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Alumno/Downloads/TabBarApp/TwitterController.m330556365#330556365#0(0"0(0#0#53"/Users/Alumno/Downloads/TabBarApp/TwitterController.m8612374304#1925"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch -c /Users/Alumno/Downloads/TabBarApp/TwitterController.m -o /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o /Users/felipeescobar/Desktop/TabBarApp/TwitterController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330166681.234482
+e330166681.370551
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+x/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m: In function '-[TwitterController viewDidLoad]':
+o/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m:62: warning: class 'TwitterController' does not implement the 'UIWebViewDelegate' protocol
+lSLF07#2@66"Compile /Users/felipeescobar/Desktop/TabBarApp/TwitterController.m330166681#330166681#0(258"/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m: In function '-[TwitterController viewDidLoad]':/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m:62: warning: class 'TwitterController' does not implement the 'UIWebViewDelegate' protocol1(22@77"Class 'TwitterController' does not implement the 'UIWebViewDelegate' protocol330166681#108#150#0(6@58"/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m330166680#62#0#62#0#45"class '*' does not implement the '*' protocol0(0#0#58"/Users/felipeescobar/Desktop/TabBarApp/TwitterController.m8612635616#1980"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch -c /Users/felipeescobar/Desktop/TabBarApp/TwitterController.m -o /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o /Users/felipeescobar/Downloads/TabBarApp/TwitterController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330570648.754867
+e330570649.045941
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o
+x/Users/felipeescobar/Downloads/TabBarApp/TwitterController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/felipeescobar/Downloads/TabBarApp/TwitterController.m330570648#330570649#0(0"0(0#0#60"/Users/felipeescobar/Downloads/TabBarApp/TwitterController.m7813313723303425024#2002"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch -c /Users/felipeescobar/Downloads/TabBarApp/TwitterController.m -o /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TwitterController.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330230677.123432
+e330230677.427282
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/felipeescobar/Desktop/No tocar/TabBarApp/main.m330230677#330230677#0(0"0(0#0#54"/Users/felipeescobar/Desktop/No tocar/TabBarApp/main.m8603084736#2075"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/main.m" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330972347.760020
+e330972347.998903
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m330972347#330972347#0(0"0(0#0#66"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m8600412320#2207"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/main.m" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o /Users/Alumno/Downloads/TabBarApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330556365.534123
+e330556365.585210
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+x/Users/Alumno/Downloads/TabBarApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/Alumno/Downloads/TabBarApp/main.m330556365#330556365#0(0"0(0#0#40"/Users/Alumno/Downloads/TabBarApp/main.m8614493184#1899"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch -c /Users/Alumno/Downloads/TabBarApp/main.m -o /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o /Users/felipeescobar/Desktop/TabBarApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330155974.150154
+e330155974.214362
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+x/Users/felipeescobar/Desktop/TabBarApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/felipeescobar/Desktop/TabBarApp/main.m330155974#330155974#0(0"0(0#0#45"/Users/felipeescobar/Desktop/TabBarApp/main.m8595963744#1954"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch -c /Users/felipeescobar/Desktop/TabBarApp/main.m -o /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o /Users/felipeescobar/Downloads/TabBarApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330570148.906342
+e330570148.982025
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o
+x/Users/felipeescobar/Downloads/TabBarApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/felipeescobar/Downloads/TabBarApp/main.m330570148#330570148#0(0"0(0#0#47"/Users/felipeescobar/Downloads/TabBarApp/main.m8599018400#1976"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch -c /Users/felipeescobar/Downloads/TabBarApp/main.m -o /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/main.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330463846.358714
+e330463846.656537
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.m330463846#330463846#0(0"0(0#0#68"/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.m8617312672#2103"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1AppDelegate.m" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330980057.337825
+e330980057.506621
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m330980057#330980057#0(0"0(0#0#80"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m8620001088#2235"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1AppDelegate.m" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o /Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330557505.360996
+e330557505.427118
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+x/Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.m330557505#330557505#0(0"0(0#0#54"/Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.m8618711552#1927"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch -c /Users/Alumno/Downloads/TabBarApp/prueba1AppDelegate.m -o /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o /Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330206756.152394
+e330206756.969457
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+x/Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.m330206756#330206756#0(0"0(0#0#59"/Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.m8623396864#1982"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch -c /Users/felipeescobar/Desktop/TabBarApp/prueba1AppDelegate.m -o /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o /Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330572734.626185
+e330572734.763237
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o
+x/Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.m330572734#330572734#0(0"0(0#0#61"/Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.m8617140768#2004"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch -c /Users/felipeescobar/Downloads/TabBarApp/prueba1AppDelegate.m -o /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1AppDelegate.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s330464548.893632
+e330464549.004778
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.m330464548#330464549#0(0"0(0#0#71"/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.m8604353248#2109"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.m" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s331060917.763740
+e331060920.272167
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m331060917#331060920#0(0"0(0#0#83"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m7089039851000067072#2241"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.m" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o"0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o /Users/Alumno/Downloads/TabBarApp/prueba1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330557714.029853
+e330557714.191663
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+x/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Alumno/Downloads/TabBarApp/prueba1ViewController.m330557714#330557714#0(0"0(0#0#57"/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.m8616461664#1933"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch -c /Users/Alumno/Downloads/TabBarApp/prueba1ViewController.m -o /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o /Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330206842.206960
+e330206842.508626
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+x/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.m330206842#330206842#0(0"0(0#0#62"/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.m8605282336#1988"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch -c /Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.m -o /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o0#
+
+CCompileC build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o /Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s330572734.629632
+e330572734.906743
+r1
+xCompileC
+xbuild/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o
+x/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.m330572734#330572734#0(0"0(0#0#64"/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.m8617161568#2010"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -include /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch -c /Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.m -o /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/prueba1ViewController.o0#
+
+CCompileXIB "/Users/felipeescobar/Desktop/No tocar/TabBarApp/MainWindow.xib"
+s330464939.040326
+e330464939.498227
+r1
+xCompileXIB
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330464939#330464939#0(0"0(0#0#62"/Users/felipeescobar/Desktop/No tocar/TabBarApp/MainWindow.xib8615636512#605"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib" "/Users/felipeescobar/Desktop/No tocar/TabBarApp/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/felipeescobar/Desktop/No tocar/TabBarApp/TwitterController.xib"
+r0
+
+CCompileXIB "/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.xib"
+s330475304.042959
+e330475304.514195
+r1
+xCompileXIB
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.xib
+lSLF07#2@36"CompileXIB prueba1ViewController.xib330475304#330475304#0(0"0(0#0#73"/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.xib8603221248#627"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib" "/Users/felipeescobar/Desktop/No tocar/TabBarApp/prueba1ViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib"
+s331075180.245725
+e331075180.867465
+r1
+xCompileXIB
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib331075180#331075180#0(0"0(0#0#74"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib8603949120#641"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TwitterController.xib"
+r0
+
+CCompileXIB "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib"
+s330978183.891329
+e330978184.390189
+r1
+xCompileXIB
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib
+lSLF07#2@36"CompileXIB prueba1ViewController.xib330978183#330978184#0(0"0(0#0#85"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib8624346272#663"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/prueba1ViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/Alumno/Downloads/TabBarApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/Alumno/Downloads/TabBarApp/TwitterController.xib
+r0
+
+CCompileXIB /Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib
+s330557830.802971
+e330557831.211314
+r1
+xCompileXIB
+x/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib
+lSLF07#2@36"CompileXIB prueba1ViewController.xib330557830#330557831#0(0"0(0#0#59"/Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib8617945920#579"    cd /Users/Alumno/Downloads/TabBarApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib /Users/Alumno/Downloads/TabBarApp/prueba1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/felipeescobar/Desktop/TabBarApp/MainWindow.xib
+s330209871.996283
+e330209886.796960
+r1
+xCompileXIB
+x/Users/felipeescobar/Desktop/TabBarApp/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib330209872#330209886#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#53"/Users/felipeescobar/Desktop/TabBarApp/MainWindow.xib23644099914498160#572"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/MainWindow.nib /Users/felipeescobar/Desktop/TabBarApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/felipeescobar/Desktop/TabBarApp/TwitterController.xib
+s330166754.952449
+e330166755.371195
+r1
+xCompileXIB
+x/Users/felipeescobar/Desktop/TabBarApp/TwitterController.xib
+lSLF07#2@32"CompileXIB TwitterController.xib330166754#330166755#0(0"0(0#0#60"/Users/felipeescobar/Desktop/TabBarApp/TwitterController.xib8612092992#586"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TwitterController.nib /Users/felipeescobar/Desktop/TabBarApp/TwitterController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.xib
+s330207146.716568
+e330207147.839647
+r1
+xCompileXIB
+x/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.xib
+lSLF07#2@36"CompileXIB prueba1ViewController.xib330207146#330207147#0(0"0(0#0#64"/Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.xib8602800096#594"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib /Users/felipeescobar/Desktop/TabBarApp/prueba1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/felipeescobar/Downloads/TabBarApp/MainWindow.xib
+r0
+
+CCompileXIB /Users/felipeescobar/Downloads/TabBarApp/TwitterController.xib
+r0
+
+CCompileXIB /Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.xib
+s330573107.509210
+e330573108.385864
+r1
+xCompileXIB
+x/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.xib
+lSLF07#2@36"CompileXIB prueba1ViewController.xib330573107#330573108#0(0"0(0#0#66"/Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.xib8609841344#600"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1ViewController.nib /Users/felipeescobar/Downloads/TabBarApp/prueba1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCopyPlistFile /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/prueba1-Info.plist prueba1-Info.plist
+r0
+
+CCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg" "UVM Dance.jpg"
+s330206756.067955
+e330206756.122886
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/UVM Dance.jpg
+xUVM Dance.jpg
+lSLF07#2@18"Copy UVM Dance.jpg330206756#330206756#0(0"0(0#0#52"/Users/felipeescobar/Desktop/TabBarApp/UVM Dance.jpg8620046368#475"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Desktop/TabBarApp/UVM Dance.jpg" /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg" "UVM Electronica.jpg"
+s330206756.069853
+e330206756.123003
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/UVM Electronica.jpg
+xUVM Electronica.jpg
+lSLF07#2@24"Copy UVM Electronica.jpg330206756#330206756#0(0"0(0#0#58"/Users/felipeescobar/Desktop/TabBarApp/UVM Electronica.jpg8601175168#481"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Desktop/TabBarApp/UVM Electronica.jpg" /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg" "UVM Pop.jpg"
+s330206756.074118
+e330206756.126202
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/UVM Pop.jpg
+xUVM Pop.jpg
+lSLF07#2@16"Copy UVM Pop.jpg330206756#330206756#0(0"0(0#0#50"/Users/felipeescobar/Desktop/TabBarApp/UVM Pop.jpg8622883296#473"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Desktop/TabBarApp/UVM Pop.jpg" /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg" "UVM Rock.jpg"
+s330206756.119275
+e330206756.127544
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/UVM Rock.jpg
+xUVM Rock.jpg
+lSLF07#2@17"Copy UVM Rock.jpg330206756#330206756#0(0"0(0#0#51"/Users/felipeescobar/Desktop/TabBarApp/UVM Rock.jpg8619618240#474"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Desktop/TabBarApp/UVM Rock.jpg" /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource "build/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg" "UVM Sesion Chile.jpg"
+s330206756.121008
+e330206756.146397
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/UVM Sesion Chile.jpg
+xUVM Sesion Chile.jpg
+lSLF07#2@25"Copy UVM Sesion Chile.jpg330206756#330206756#0(0"0(0#0#59"/Users/felipeescobar/Desktop/TabBarApp/UVM Sesion Chile.jpg8612700864#482"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Desktop/TabBarApp/UVM Sesion Chile.jpg" /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource "build/Debug-iphonesimulator/TabBarApp.app/red boton.png" "red boton.png"
+s330573107.512261
+e330573107.585823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/red boton.png
+xred boton.png
+lSLF07#2@18"Copy red boton.png330573107#330573107#0(0"0(0#0#54"/Users/felipeescobar/Downloads/TabBarApp/red boton.png8606069920#481"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Downloads/TabBarApp/red boton.png" /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/Creditos.jpg Creditos.jpg
+s330165787.504391
+e330165787.516215
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/Creditos.jpg
+xCreditos.jpg
+lSLF07#2@17"Copy Creditos.jpg330165787#330165787#0(0"0(0#0#51"/Users/felipeescobar/Desktop/TabBarApp/Creditos.jpg8618130176#472"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/felipeescobar/Desktop/TabBarApp/Creditos.jpg /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/Radio.jpg Radio.jpg
+s330165787.502203
+e330165787.522923
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/Radio.jpg
+xRadio.jpg
+lSLF07#2@14"Copy Radio.jpg330165787#330165787#0(0"0(0#0#48"/Users/felipeescobar/Desktop/TabBarApp/Radio.jpg8619359168#469"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/felipeescobar/Desktop/TabBarApp/Radio.jpg /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/Twitter.jpg Twitter.jpg
+s330165787.505970
+e330165787.523052
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/Twitter.jpg
+xTwitter.jpg
+lSLF07#2@16"Copy Twitter.jpg330165787#330165787#0(0"0(0#0#50"/Users/felipeescobar/Desktop/TabBarApp/Twitter.jpg8618045536#471"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/felipeescobar/Desktop/TabBarApp/Twitter.jpg /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/icon.png icon.png
+s330976280.591088
+e330976280.818999
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png330976280#330976280#0(0"0(0#0#68"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/icon.png8608017856#537"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/icon.png" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/logo.jpg logo.jpg
+s330160112.560028
+e330160112.659075
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/logo.jpg
+xlogo.jpg
+lSLF07#2@13"Copy logo.jpg330160112#330160112#0(0"0(0#0#47"/Users/felipeescobar/Desktop/TabBarApp/logo.jpg8616818176#468"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/felipeescobar/Desktop/TabBarApp/logo.jpg /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/pause.png pause.png
+s330571828.473798
+e330571828.523362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/pause.png
+xpause.png
+lSLF07#2@14"Copy pause.png330571828#330571828#0(0"0(0#0#50"/Users/felipeescobar/Downloads/TabBarApp/pause.png8607810368#475"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/felipeescobar/Downloads/TabBarApp/pause.png /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/play.png play.png
+s330474250.040391
+e330474250.073235
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/play.png
+xplay.png
+lSLF07#2@13"Copy play.png330474250#330474250#0(0"0(0#0#56"/Users/felipeescobar/Desktop/No tocar/TabBarApp/play.png8604449568#501"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Desktop/No tocar/TabBarApp/play.png" "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"0#
+
+CCpResource build/Debug-iphonesimulator/TabBarApp.app/radiobar.png radiobar.png
+s330997037.599457
+e330997037.692799
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TabBarApp.app/radiobar.png
+xradiobar.png
+lSLF07#2@17"Copy radiobar.png330997037#330997037#0(0"0(0#0#72"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/radiobar.png8606138272#541"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/radiobar.png" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"0#
+
+CGenerateDSYMFile "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM" "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp"
+s330474761.350432
+e330474761.411966
+r1
+xGenerateDSYMFile
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TabBarApp.app.dSYM build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330474761#330474761#0(0"0(0#0#99"/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp8608668544#422"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp" -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM" "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp"
+s331060921.149277
+e331060921.392493
+r1
+xGenerateDSYMFile
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TabBarApp.app.dSYM build/Debug-iphonesimulator/TabBarApp.app/TabBarApp331060921#331060921#0(0"0(0#0#111"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp8612804544#458"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp" -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM"0#
+
+CGenerateDSYMFile /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+s330557714.216749
+e330557714.235590
+r1
+xGenerateDSYMFile
+x/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+x/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TabBarApp.app.dSYM build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330557714#330557714#0(0"0(0#0#85"/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp8618015232#374"    cd /Users/Alumno/Downloads/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp -o /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+s330209887.410777
+e330209887.478773
+r1
+xGenerateDSYMFile
+x/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+x/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TabBarApp.app.dSYM build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330209887#330209887#0(0"0(0#0#90"/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp8603494240#389"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp -o /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM0#
+
+CGenerateDSYMFile /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+s330572734.948889
+e330572734.994140
+r1
+xGenerateDSYMFile
+x/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM
+x/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TabBarApp.app.dSYM build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330572734#330572734#0(0"0(0#0#92"/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp8617422528#395"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp -o /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app.dSYM0#
+
+CLd "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp" normal i386
+s330474761.141078
+e330474761.350256
+r1
+xLd
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+xnormal
+xi386
+lSLF07#2@104"Link /Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330474761#330474761#0(0"0(0#0#0"8610693248#1055"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" -filelist "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -framework MediaPlayer -framework CFNetwork -o "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp"0#
+
+CLd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp" normal i386
+s331060920.272358
+e331060921.149180
+r1
+xLd
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+xnormal
+xi386
+lSLF07#2@116"Link /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp331060920#331060921#0(0"0(0#0#0"8611215680#1115"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" -filelist "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -framework MediaPlayer -framework CFNetwork -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp"0#
+
+CLd /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp normal i386
+s330557714.191740
+e330557714.216666
+r1
+xLd
+x/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+xnormal
+xi386
+lSLF07#2@90"Link /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330557714#330557714#0(0"0(0#0#0"8619130720#975"    cd /Users/Alumno/Downloads/TabBarApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -filelist /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -framework MediaPlayer -framework CFNetwork -o /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp0#
+
+CLd /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp normal i386
+s330209886.797818
+e330209887.410660
+r1
+xLd
+x/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+xnormal
+xi386
+lSLF07#2@95"Link /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330209886#330209887#0(0"0(0#0#0"8602776384#1000"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -filelist /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -framework MediaPlayer -framework CFNetwork -o /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp0#
+
+CLd /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp normal i386
+s330572734.906824
+e330572734.948799
+r1
+xLd
+x/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp
+xnormal
+xi386
+lSLF07#2@97"Link /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp330572734#330572734#0(0"0(0#0#0"8618413760#1010"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -filelist /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/Objects-normal/i386/TabBarApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -framework QuartzCore -framework MediaPlayer -framework CFNetwork -o /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/TabBarApp0#
+
+CProcessInfoPlistFile "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist" TabBarApp-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist" TabBarApp-Info.plist
+s330976280.586362
+e330976280.589581
+r1
+xProcessInfoPlistFile
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+xTabBarApp-Info.plist
+lSLF07#2@28"Process TabBarApp-Info.plist330976280#330976280#0(0"0(0#0#80"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TabBarApp-Info.plist8620673632#554"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabBarApp-Info.plist -genpkginfo "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist TabBarApp-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist TabBarApp-Info.plist
+s330155972.769927
+e330155972.773929
+r1
+xProcessInfoPlistFile
+x/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist
+xTabBarApp-Info.plist
+lSLF07#2@28"Process TabBarApp-Info.plist330155972#330155972#0(0"0(0#0#59"/Users/felipeescobar/Desktop/TabBarApp/TabBarApp-Info.plist8616666272#485"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TabBarApp-Info.plist -genpkginfo /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app/Info.plist TabBarApp-Info.plist
+r0
+
+CProcessPCH /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch.gch TabBarApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330556365.024908
+e330556365.534024
+r1
+xProcessPCH
+x/var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch.gch
+xTabBarApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TabBarApp_Prefix.pch330556365#330556365#0(0"0(0#0#54"/Users/Alumno/Downloads/TabBarApp/TabBarApp_Prefix.pch8615041632#1794"    cd /Users/Alumno/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/Alumno/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -c /Users/Alumno/Downloads/TabBarApp/TabBarApp_Prefix.pch -o /var/folders/La/LaxlVf37G7OFu-yVD4g1Gk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TabBarApp_Prefix-aeimtfvzkhtgvtbhuuodzmavaoin/TabBarApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch.gch TabBarApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330155973.166210
+e330155974.150040
+r1
+xProcessPCH
+x/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch.gch
+xTabBarApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TabBarApp_Prefix.pch330155973#330155974#0(0"0(0#0#59"/Users/felipeescobar/Desktop/TabBarApp/TabBarApp_Prefix.pch8617671648#1844"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Desktop/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -c /Users/felipeescobar/Desktop/TabBarApp/TabBarApp_Prefix.pch -o /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-dxhbnrwfnoornwcpbemegxiygpux/TabBarApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch.gch TabBarApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330570145.604018
+e330570148.905874
+r1
+xProcessPCH
+x/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch.gch
+xTabBarApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TabBarApp_Prefix.pch330570145#330570148#0(0"0(0#0#61"/Users/felipeescobar/Downloads/TabBarApp/TabBarApp_Prefix.pch6877120057388909568#1864"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap -iquote /Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap -F/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator -I/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/include -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386 -I/Users/felipeescobar/Downloads/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources -c /Users/felipeescobar/Downloads/TabBarApp/TabBarApp_Prefix.pch -o /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-eblfdhyyrtrjltayqknnjwgpyyge/TabBarApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch.gch TabBarApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330972346.270333
+e330972347.759718
+r1
+xProcessPCH
+x/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch.gch
+xTabBarApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TabBarApp_Prefix.pch330972346#330972347#0(0"0(0#0#80"/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TabBarApp_Prefix.pch6877120057388909568#2074"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/TabBarApp_Prefix.pch" -o /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-edwgcmzfhllzsjdlqilgvdvkqdjh/TabBarApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch.gch TabBarApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s330230671.549692
+e330230677.123091
+r1
+xProcessPCH
+x/var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch.gch
+xTabBarApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TabBarApp_Prefix.pch330230671#330230677#0(0"0(0#0#68"/Users/felipeescobar/Desktop/No tocar/TabBarApp/TabBarApp_Prefix.pch6877120057388909568#1954"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-generated-files.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-own-target-headers.hmap" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-all-target-headers.hmap" -iquote "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/TabBarApp-project-headers.hmap" "-F/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/include" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources/i386" "-I/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/TabBarApp.build/Debug-iphonesimulator/TabBarApp.build/DerivedSources" -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/TabBarApp_Prefix.pch" -o /var/folders/Q0/Q0CPUJJBHcmbeXle2-2tAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TabBarApp_Prefix-gjunsjgdzqtahrartesvpoorlcch/TabBarApp_Prefix.pch.gch0#
+
+CTouch "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"
+s330475304.515138
+e330475304.518090
+r1
+xTouch
+x/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+lSLF07#2@95"Touch /Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app330475304#330475304#0(0"0(0#0#0"8604138688#302"    cd "/Users/felipeescobar/Desktop/No tocar/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/felipeescobar/Desktop/No tocar/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"0#
+
+CTouch "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"
+s331075180.868301
+e331075180.871572
+r1
+xTouch
+x/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+lSLF07#2@107"Touch /Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app331075180#331075180#0(0"0(0#0#0"8601037376#326"    cd "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/felipeescobar/Downloads/dossier sans titre/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app"0#
+
+CTouch /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+s330557831.211945
+e330557831.214129
+r1
+xTouch
+x/Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+lSLF07#2@81"Touch /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app330557831#330557831#0(0"0(0#0#0"8617145664#270"    cd /Users/Alumno/Downloads/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Alumno/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CTouch /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+s330209887.478871
+e330209887.509741
+r1
+xTouch
+x/Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+lSLF07#2@86"Touch /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app330209887#330209887#0(0"0(0#0#0"8603754688#280"    cd /Users/felipeescobar/Desktop/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/felipeescobar/Desktop/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+
+CTouch /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+s330573108.386610
+e330573108.399728
+r1
+xTouch
+x/Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app
+lSLF07#2@88"Touch /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app330573108#330573108#0(0"0(0#0#0"8599750944#284"    cd /Users/felipeescobar/Downloads/TabBarApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/felipeescobar/Downloads/TabBarApp/build/Debug-iphonesimulator/TabBarApp.app0#
+

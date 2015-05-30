@@ -1,0 +1,367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		12044ADA13B27FC8009C1BC7 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 12044AD913B27FC8009C1BC7 /* play.png */; };
+		125983F413AE8C2300A24C8C /* AudioStreamer.m in Sources */ = {isa = PBXBuildFile; fileRef = 125983EF13AE8C2300A24C8C /* AudioStreamer.m */; };
+		125983F513AE8C2300A24C8C /* prueba1AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 125983F113AE8C2300A24C8C /* prueba1AppDelegate.m */; };
+		125983F613AE8C2300A24C8C /* prueba1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 125983F313AE8C2300A24C8C /* prueba1ViewController.m */; };
+		125983F813AE8C2F00A24C8C /* prueba1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 125983F713AE8C2F00A24C8C /* prueba1ViewController.xib */; };
+		1259840113AE8C5700A24C8C /* UVM Dance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125983FC13AE8C5700A24C8C /* UVM Dance.jpg */; };
+		1259840213AE8C5700A24C8C /* UVM Electronica.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125983FD13AE8C5700A24C8C /* UVM Electronica.jpg */; };
+		1259840313AE8C5700A24C8C /* UVM Pop.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125983FE13AE8C5700A24C8C /* UVM Pop.jpg */; };
+		1259840413AE8C5700A24C8C /* UVM Rock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 125983FF13AE8C5700A24C8C /* UVM Rock.jpg */; };
+		1259840513AE8C5700A24C8C /* UVM Sesion Chile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1259840013AE8C5700A24C8C /* UVM Sesion Chile.jpg */; };
+		1259840913AE8C8A00A24C8C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1259840813AE8C8A00A24C8C /* AudioToolbox.framework */; };
+		1259840B13AE8C9200A24C8C /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1259840A13AE8C9200A24C8C /* QuartzCore.framework */; };
+		1259840D13AE8CAA00A24C8C /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1259840C13AE8CAA00A24C8C /* MediaPlayer.framework */; };
+		1259840F13AE8CB100A24C8C /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1259840E13AE8CB100A24C8C /* CFNetwork.framework */; };
+		1273D78E13BA9C7D00AA307C /* radiobar.png in Resources */ = {isa = PBXBuildFile; fileRef = 1273D78D13BA9C7D00AA307C /* radiobar.png */; };
+		1282615B13BA4C0400A3A0BB /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1282615A13BA4C0400A3A0BB /* icon.png */; };
+		12B49BB513B2A6D200F1EDE5 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 12B49BB413B2A6D200F1EDE5 /* pause.png */; };
+		12D4511F13ADC874009CD58F /* logo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12D4511E13ADC874009CD58F /* logo.jpg */; };
+		12D4514713ADD93C009CD58F /* TwitterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12D4514513ADD93C009CD58F /* TwitterController.m */; };
+		12D4514813ADD93C009CD58F /* TwitterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 12D4514613ADD93C009CD58F /* TwitterController.xib */; };
+		12ECA1BA13B424B1001B031D /* red boton.png in Resources */ = {isa = PBXBuildFile; fileRef = 12ECA1B913B424B1001B031D /* red boton.png */; };
+		1D3623260D0F684500981E51 /* TabBarAppAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* TabBarAppAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		12044AD913B27FC8009C1BC7 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		125983EE13AE8C2300A24C8C /* AudioStreamer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioStreamer.h; sourceTree = "<group>"; };
+		125983EF13AE8C2300A24C8C /* AudioStreamer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioStreamer.m; sourceTree = "<group>"; };
+		125983F013AE8C2300A24C8C /* prueba1AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prueba1AppDelegate.h; sourceTree = "<group>"; };
+		125983F113AE8C2300A24C8C /* prueba1AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = prueba1AppDelegate.m; sourceTree = "<group>"; };
+		125983F213AE8C2300A24C8C /* prueba1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prueba1ViewController.h; sourceTree = "<group>"; };
+		125983F313AE8C2300A24C8C /* prueba1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = prueba1ViewController.m; sourceTree = "<group>"; };
+		125983F713AE8C2F00A24C8C /* prueba1ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = prueba1ViewController.xib; sourceTree = "<group>"; };
+		125983FC13AE8C5700A24C8C /* UVM Dance.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "UVM Dance.jpg"; sourceTree = "<group>"; };
+		125983FD13AE8C5700A24C8C /* UVM Electronica.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "UVM Electronica.jpg"; sourceTree = "<group>"; };
+		125983FE13AE8C5700A24C8C /* UVM Pop.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "UVM Pop.jpg"; sourceTree = "<group>"; };
+		125983FF13AE8C5700A24C8C /* UVM Rock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "UVM Rock.jpg"; sourceTree = "<group>"; };
+		1259840013AE8C5700A24C8C /* UVM Sesion Chile.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "UVM Sesion Chile.jpg"; sourceTree = "<group>"; };
+		1259840813AE8C8A00A24C8C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		1259840A13AE8C9200A24C8C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		1259840C13AE8CAA00A24C8C /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		1259840E13AE8CB100A24C8C /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		1273D78D13BA9C7D00AA307C /* radiobar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = radiobar.png; sourceTree = "<group>"; };
+		1282615A13BA4C0400A3A0BB /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		12B49BB413B2A6D200F1EDE5 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pause.png; sourceTree = "<group>"; };
+		12D4511E13ADC874009CD58F /* logo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo.jpg; sourceTree = "<group>"; };
+		12D4514413ADD93C009CD58F /* TwitterController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwitterController.h; sourceTree = "<group>"; };
+		12D4514513ADD93C009CD58F /* TwitterController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwitterController.m; sourceTree = "<group>"; };
+		12D4514613ADD93C009CD58F /* TwitterController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TwitterController.xib; sourceTree = "<group>"; };
+		12ECA1B913B424B1001B031D /* red boton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "red boton.png"; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* TabBarAppAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarAppAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* TabBarAppAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarAppAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* radioUVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = radioUVM.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* radioUVM_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = radioUVM_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* radioUVM-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "radioUVM-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				1259840913AE8C8A00A24C8C /* AudioToolbox.framework in Frameworks */,
+				1259840B13AE8C9200A24C8C /* QuartzCore.framework in Frameworks */,
+				1259840D13AE8CAA00A24C8C /* MediaPlayer.framework in Frameworks */,
+				1259840F13AE8CB100A24C8C /* CFNetwork.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* TabBarAppAppDelegate.h */,
+				1D3623250D0F684500981E51 /* TabBarAppAppDelegate.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		125983EC13AE8BFD00A24C8C /* Radio */ = {
+			isa = PBXGroup;
+			children = (
+				125983EE13AE8C2300A24C8C /* AudioStreamer.h */,
+				125983EF13AE8C2300A24C8C /* AudioStreamer.m */,
+				125983F713AE8C2F00A24C8C /* prueba1ViewController.xib */,
+				125983F013AE8C2300A24C8C /* prueba1AppDelegate.h */,
+				125983F113AE8C2300A24C8C /* prueba1AppDelegate.m */,
+				125983F213AE8C2300A24C8C /* prueba1ViewController.h */,
+				125983F313AE8C2300A24C8C /* prueba1ViewController.m */,
+			);
+			name = Radio;
+			sourceTree = "<group>";
+		};
+		125983FB13AE8C5700A24C8C /* imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				125983FC13AE8C5700A24C8C /* UVM Dance.jpg */,
+				1273D78D13BA9C7D00AA307C /* radiobar.png */,
+				12ECA1B913B424B1001B031D /* red boton.png */,
+				125983FD13AE8C5700A24C8C /* UVM Electronica.jpg */,
+				12044AD913B27FC8009C1BC7 /* play.png */,
+				1282615A13BA4C0400A3A0BB /* icon.png */,
+				12B49BB413B2A6D200F1EDE5 /* pause.png */,
+				125983FE13AE8C5700A24C8C /* UVM Pop.jpg */,
+				125983FF13AE8C5700A24C8C /* UVM Rock.jpg */,
+				1259840013AE8C5700A24C8C /* UVM Sesion Chile.jpg */,
+			);
+			name = imagenes;
+			sourceTree = "<group>";
+		};
+		12D4513B13ADD896009CD58F /* Twitter */ = {
+			isa = PBXGroup;
+			children = (
+				12D4514413ADD93C009CD58F /* TwitterController.h */,
+				12D4514513ADD93C009CD58F /* TwitterController.m */,
+				12D4514613ADD93C009CD58F /* TwitterController.xib */,
+			);
+			name = Twitter;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* radioUVM.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* radioUVM_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				125983FB13AE8C5700A24C8C /* imagenes */,
+				125983EC13AE8BFD00A24C8C /* Radio */,
+				12D4513B13ADD896009CD58F /* Twitter */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				12D4511E13ADC874009CD58F /* logo.jpg */,
+				8D1107310486CEB800E47090 /* radioUVM-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+				1259840813AE8C8A00A24C8C /* AudioToolbox.framework */,
+				1259840A13AE8C9200A24C8C /* QuartzCore.framework */,
+				1259840C13AE8CAA00A24C8C /* MediaPlayer.framework */,
+				1259840E13AE8CB100A24C8C /* CFNetwork.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* radioUVM */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "radioUVM" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = radioUVM;
+			productName = TabBarApp;
+			productReference = 1D6058910D05DD3D006BFB54 /* radioUVM.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "radioUVM" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* radioUVM */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				12D4511F13ADC874009CD58F /* logo.jpg in Resources */,
+				12D4514813ADD93C009CD58F /* TwitterController.xib in Resources */,
+				125983F813AE8C2F00A24C8C /* prueba1ViewController.xib in Resources */,
+				1259840113AE8C5700A24C8C /* UVM Dance.jpg in Resources */,
+				1259840213AE8C5700A24C8C /* UVM Electronica.jpg in Resources */,
+				1259840313AE8C5700A24C8C /* UVM Pop.jpg in Resources */,
+				1259840413AE8C5700A24C8C /* UVM Rock.jpg in Resources */,
+				1259840513AE8C5700A24C8C /* UVM Sesion Chile.jpg in Resources */,
+				12044ADA13B27FC8009C1BC7 /* play.png in Resources */,
+				12B49BB513B2A6D200F1EDE5 /* pause.png in Resources */,
+				12ECA1BA13B424B1001B031D /* red boton.png in Resources */,
+				1282615B13BA4C0400A3A0BB /* icon.png in Resources */,
+				1273D78E13BA9C7D00AA307C /* radiobar.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* TabBarAppAppDelegate.m in Sources */,
+				12D4514713ADD93C009CD58F /* TwitterController.m in Sources */,
+				125983F413AE8C2300A24C8C /* AudioStreamer.m in Sources */,
+				125983F513AE8C2300A24C8C /* prueba1AppDelegate.m in Sources */,
+				125983F613AE8C2300A24C8C /* prueba1ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = radioUVM_Prefix.pch;
+				INFOPLIST_FILE = "radioUVM-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PRODUCT_NAME = radioUVM;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = radioUVM_Prefix.pch;
+				INFOPLIST_FILE = "radioUVM-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				PRODUCT_NAME = radioUVM;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.1;
+				PREBINDING = NO;
+				SDKROOT = iphoneos4.3;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "radioUVM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "radioUVM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
